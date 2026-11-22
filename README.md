@@ -21,7 +21,6 @@
   <a href="https://paykit.sh"><strong>Website</strong></a> ·
   <a href="https://paykit.sh/docs"><strong>Docs</strong></a> ·
   <a href="https://discord.gg/nzy9NPpFNU"><strong>Discord</strong></a> ·
-  <a href="https://x.com/paykit_sh"><strong>Twitter</strong></a>
 </p>
 
 <p align="center">
@@ -87,7 +86,7 @@ You can help continue its development by:
 
 ## Security
 
-If you discover a security vulnerability within PayKit, please send an email to [security@paykit.sh](mailto:security@paykit.sh).
+If you discover a security vulnerability within PayKit, please open a private security advisory on this repository.
 
 All reports will be promptly addressed, and you'll be credited accordingly.
 
